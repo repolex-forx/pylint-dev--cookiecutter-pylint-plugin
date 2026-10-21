@@ -1,0 +1,11 @@
+{
+  "org": "pylint-dev",
+  "repo": "cookiecutter-pylint-plugin",
+  "versions": [
+    {
+      "commit": "803422363dc1cf00665f75bfe2782abcb41833cf",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:42:05.854467+00:00"
+    }
+  ]
+}
