@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pylint-dev/cookiecutter-pylint-plugin/commit/803422363dc1cf00665f75bfe2782abcb41833cf",
       "git:hexsha": "803422363dc1cf00665f75bfe2782abcb41833cf",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T21:42:05.854074+00:00"
     }
   ]
 }
