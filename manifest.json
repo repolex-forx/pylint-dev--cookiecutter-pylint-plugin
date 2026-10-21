@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "pylint-dev",
+  "repo": "cookiecutter-pylint-plugin",
+  "versions": [
+    {
+      "commit": "803422363dc1cf00665f75bfe2782abcb41833cf",
+      "parsed_at": "2026-10-21T21:39:27.978286+00:00",
+      "filetree": "filetree/803422363dc1cf00665f75bfe2782abcb41833cf.nq.gz",
+      "blobs": [
+        "blob/68a2f481f75cac16812c9fa040a97c7364737e86.nq.gz",
+        "blob/8aecf069185121b34d508536fa45578fdeaf9996.nq.gz",
+        "blob/f39785f8964c59f6a52f560d18dfae69af61a923.nq.gz",
+        "blob/43f562bd86d8f2ff0187d3cec28442e760a7c026.nq.gz",
+        "blob/f5cc5eca2aaf88eb74127a8aef7f2019f64cfac0.nq.gz",
+        "blob/db1741e4e746dde2e909bfe4aa60aa013a5fdc95.nq.gz",
+        "blob/372f0b330a07332a4669a5d4982abb51bbe5eae2.nq.gz",
+        "blob/64e1c49de837bc326e877cbceec2105e7b76b148.nq.gz",
+        "blob/39fd931892552eeb59b42ac18621d980d7a83c4f.nq.gz",
+        "blob/c8e505e14e4c1ac3ec3203bb99703dace3638f01.nq.gz",
+        "blob/9d6ca021f3f13a4394e60ca667d6d0ed3a758efe.nq.gz",
+        "blob/c59cd6f06bf5cad6d635e7a97337b6c308cc985a.nq.gz",
+        "blob/c41a790e1189c13b84c24ee1753a557e20127b95.nq.gz",
+        "blob/c7f8f75ad96c44050c2862bc4029ce2b19d25f8b.nq.gz",
+        "blob/ab7467e8a44b6d5143f7ab3e586ba674303c2660.nq.gz",
+        "blob/9f73efdaea628387f192e507780bfcde5553deac.nq.gz",
+        "blob/5773c29c22fa76ef10b944588605897e8b85dc5f.nq.gz",
+        "blob/57ff26f1d1dbde637f682095b4cf1f046b02d6d2.nq.gz",
+        "blob/5632b1300769da89986fa229cf604d278b9e50d7.nq.gz",
+        "blob/75f5e11980803d9b2c89e8aad063d4d4069e9aa8.nq.gz",
+        "blob/95bfd8f5d689ebfb61e9279bfe7cc2a6497be881.nq.gz",
+        "blob/f0113583457bfa51a1a87fca22ef943e8d3b35b9.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
